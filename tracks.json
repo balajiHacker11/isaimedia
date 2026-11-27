@@ -1,0 +1,1642 @@
+{
+  "artist": "Sai Abhyankkar",
+  "scope": "Tracks composed/produced by Sai Abhyankkar: songs, themes, versions and BGM/score tracks",
+  "generated_on": "2026-11-19",
+  "sources": [
+    "JioSaavn artist and album pages",
+    "Wikipedia (Sai Abhyankkar, Dude soundtrack)"
+  ],
+  "not_scraped": "Spotify directly (login/API required, domain not reachable from this environment)",
+  "total_tracks": 110,
+  "counts_by_track_type": {
+    "song": 48,
+    "version": 10,
+    "theme": 10,
+    "bgm": 42
+  },
+  "known_gaps": [
+    "Dude - Side A / Side B (Original Score) albums: exist, tracklists not retrieved",
+    "O.M / OM songs: only 6 seen, full soundtrack not retrieved",
+    "Marshal, Benz, AA22xA6, D55, SK27 etc.: not released yet",
+    "Standalone singles duplicated from soundtracks (e.g. 'God Mode (From Karuppu)') are not repeated"
+  ],
+  "not_composed_by_him": [
+    {
+      "title": "Valam Varavendum",
+      "composer": "Sriram Parthasarathy",
+      "note": "he sang/wrote"
+    },
+    {
+      "title": "Salambala",
+      "film": "Madharaasi",
+      "composer": "Anirudh Ravichander",
+      "note": "he sang"
+    }
+  ],
+  "albums": [
+    {
+      "album_key": "indie",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "album_type": "Indie singles compilation",
+      "language": "Tamil",
+      "release_date": "2026-11-04",
+      "source": "JioSaavn",
+      "expected_tracks": 6,
+      "tracks_listed": 6
+    },
+    {
+      "album_key": "indie_x",
+      "album": "Think Indie singles (extra versions)",
+      "film_or_project": "Think Indie",
+      "album_type": "Single",
+      "language": "Tamil",
+      "release_date": null,
+      "source": "JioSaavn",
+      "expected_tracks": null,
+      "tracks_listed": 2
+    },
+    {
+      "album_key": "benz",
+      "album": "Benz",
+      "film_or_project": "Benz (unreleased)",
+      "album_type": "Promo/theme release",
+      "language": "Tamil",
+      "release_date": "2024-11-05",
+      "source": "JioSaavn",
+      "expected_tracks": 2,
+      "tracks_listed": 2
+    },
+    {
+      "album_key": "balti",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "album_type": "Film soundtrack",
+      "language": "Malayalam",
+      "release_date": "2025-09-27",
+      "source": "JioSaavn",
+      "expected_tracks": 7,
+      "tracks_listed": 7
+    },
+    {
+      "album_key": "dude",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "album_type": "Film soundtrack",
+      "language": "Tamil",
+      "release_date": "2025-10-26",
+      "source": "JioSaavn",
+      "expected_tracks": 9,
+      "tracks_listed": 9
+    },
+    {
+      "album_key": "dude_te",
+      "album": "Dude (Telugu) (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude (Telugu)",
+      "album_type": "Film soundtrack",
+      "language": "Telugu",
+      "release_date": "2025-10-29",
+      "source": "JioSaavn",
+      "expected_tracks": 4,
+      "tracks_listed": 4
+    },
+    {
+      "album_key": "k_ost",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "album_type": "Film soundtrack",
+      "language": "Tamil",
+      "release_date": "2026-05-25",
+      "source": "JioSaavn",
+      "expected_tracks": 9,
+      "tracks_listed": 9
+    },
+    {
+      "album_key": "k_a",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "album_type": "Original score (BGM)",
+      "language": "Instrumental",
+      "release_date": "2026-08-06",
+      "source": "JioSaavn",
+      "expected_tracks": 26,
+      "tracks_listed": 26
+    },
+    {
+      "album_key": "k_b",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "album_type": "Original score (BGM)",
+      "language": "Instrumental",
+      "release_date": "2026-08-06",
+      "source": "JioSaavn",
+      "expected_tracks": 21,
+      "tracks_listed": 21
+    },
+    {
+      "album_key": "v",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "album_type": "Film soundtrack",
+      "language": "Telugu",
+      "release_date": "2026-06-10",
+      "source": "JioSaavn",
+      "expected_tracks": 8,
+      "tracks_listed": 8
+    },
+    {
+      "album_key": "b",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "album_type": "Film soundtrack",
+      "language": "Tamil",
+      "release_date": "2026-10-02",
+      "source": "JioSaavn",
+      "expected_tracks": 10,
+      "tracks_listed": 10
+    },
+    {
+      "album_key": "om",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "album_type": "Film songs (partial, singles)",
+      "language": "Tamil",
+      "release_date": "2026-11-08",
+      "source": "JioSaavn",
+      "expected_tracks": null,
+      "tracks_listed": 6
+    }
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Katchi Sera",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 2,
+      "title": "Aasa Kooda",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Sai Smriti"
+      ],
+      "notes": null
+    },
+    {
+      "id": 3,
+      "title": "Sithira Puthiri",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 4,
+      "title": "Vizhi Veekura",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Sai Smriti",
+        "Adesh Krishna"
+      ],
+      "notes": null
+    },
+    {
+      "id": 5,
+      "title": "Pavazha Malli",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Shruti Haasan",
+        "Vivek"
+      ],
+      "notes": null
+    },
+    {
+      "id": 6,
+      "title": "Radhimaa",
+      "track_type": "song",
+      "album": "iSaiAbhyankkar (The Indie Isai)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": "2026-11-04",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Nargis Teji",
+        "Asma Teji",
+        "Vivek"
+      ],
+      "notes": null
+    },
+    {
+      "id": 7,
+      "title": "Pavazha Malli Unplugged",
+      "track_type": "version",
+      "album": "Think Indie singles (extra versions)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": null,
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Shruti Haasan",
+        "Vivek"
+      ],
+      "notes": null
+    },
+    {
+      "id": 8,
+      "title": "Aane Wala Star",
+      "track_type": "song",
+      "album": "Think Indie singles (extra versions)",
+      "film_or_project": "Think Indie",
+      "language": "Tamil",
+      "album_release_date": null,
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Dholu bholu"
+      ],
+      "notes": "Listed under his JioSaavn artist page; composer credit not confirmed"
+    },
+    {
+      "id": 9,
+      "title": "Benz In The Universe",
+      "track_type": "theme",
+      "album": "Benz",
+      "film_or_project": "Benz (unreleased)",
+      "language": "Tamil",
+      "album_release_date": "2024-11-05",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 10,
+      "title": "Twin Fish Walter",
+      "track_type": "theme",
+      "album": "Benz",
+      "film_or_project": "Benz (unreleased)",
+      "language": "Tamil",
+      "album_release_date": "2024-11-05",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 11,
+      "title": "Padakalame",
+      "track_type": "song",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vinayak Sasikumar",
+        "Pranavam Sasi",
+        "Ranj"
+      ],
+      "notes": null
+    },
+    {
+      "id": 12,
+      "title": "Jaalakaari",
+      "track_type": "song",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vinayak Sasikumar",
+        "Sublahshini"
+      ],
+      "notes": null
+    },
+    {
+      "id": 13,
+      "title": "Thattara Thattara",
+      "track_type": "song",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Navakkarai Naveen Prabanjam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 14,
+      "title": "Vaada Veera",
+      "track_type": "song",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vinayak Sasikumar",
+        "Pranavam Sasi"
+      ],
+      "notes": null
+    },
+    {
+      "id": 15,
+      "title": "Ammore Senniore",
+      "track_type": "song",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Malayali Monkeys"
+      ],
+      "notes": null
+    },
+    {
+      "id": 16,
+      "title": "Soda Break",
+      "track_type": "theme",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 17,
+      "title": "Balti Trailer BOP",
+      "track_type": "theme",
+      "album": "Balti (Original Motion Picture Soundtrack)",
+      "film_or_project": "Balti",
+      "language": "Malayalam",
+      "album_release_date": "2025-09-27",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 18,
+      "title": "Oorum Blood",
+      "track_type": "song",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Paal Dabba",
+        "Bebhumika",
+        "Deepthi Suresh"
+      ],
+      "notes": null
+    },
+    {
+      "id": 19,
+      "title": "Singari",
+      "track_type": "song",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Pradeep Ranganathan"
+      ],
+      "notes": null
+    },
+    {
+      "id": 20,
+      "title": "Nallaru Po",
+      "track_type": "song",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Tippu",
+        "Mohit Chauhan"
+      ],
+      "notes": null
+    },
+    {
+      "id": 21,
+      "title": "Kannukulla",
+      "track_type": "song",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Jonita Gandhi"
+      ],
+      "notes": null
+    },
+    {
+      "id": 22,
+      "title": "Yumabaibesa",
+      "track_type": "song",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Semv.iii"
+      ],
+      "notes": null
+    },
+    {
+      "id": 23,
+      "title": "Kannukulla (Reprise)",
+      "track_type": "version",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Adesh Krishna"
+      ],
+      "notes": null
+    },
+    {
+      "id": 24,
+      "title": "Dude Trailer Blast (Theme)",
+      "track_type": "theme",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 25,
+      "title": "Blud Is On His Way",
+      "track_type": "theme",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 26,
+      "title": "Oorum Blood Unplugged",
+      "track_type": "version",
+      "album": "Dude (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude",
+      "language": "Tamil",
+      "album_release_date": "2025-10-26",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Paal Dabba"
+      ],
+      "notes": null
+    },
+    {
+      "id": 27,
+      "title": "Boom Boom",
+      "track_type": "song",
+      "album": "Dude (Telugu) (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude (Telugu)",
+      "language": "Telugu",
+      "album_release_date": "2025-10-29",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Deepthi Suresh",
+        "Bebhumika"
+      ],
+      "notes": null
+    },
+    {
+      "id": 28,
+      "title": "Singari",
+      "track_type": "song",
+      "album": "Dude (Telugu) (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude (Telugu)",
+      "language": "Telugu",
+      "album_release_date": "2025-10-29",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 29,
+      "title": "Baagundu Po",
+      "track_type": "song",
+      "album": "Dude (Telugu) (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude (Telugu)",
+      "language": "Telugu",
+      "album_release_date": "2025-10-29",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Sanjith Hegde"
+      ],
+      "notes": null
+    },
+    {
+      "id": 30,
+      "title": "Nee Gunde Lona",
+      "track_type": "song",
+      "album": "Dude (Telugu) (Original Motion Picture Soundtrack)",
+      "film_or_project": "Dude (Telugu)",
+      "language": "Telugu",
+      "album_release_date": "2025-10-29",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Ramajogayya Sastry",
+        "Jonita Gandhi"
+      ],
+      "notes": null
+    },
+    {
+      "id": 31,
+      "title": "God Mode",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vishnu Edavan",
+        "Gana Muthu"
+      ],
+      "notes": null
+    },
+    {
+      "id": 32,
+      "title": "Verappa - Extended",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Arun Srinivasan",
+        "Arivu"
+      ],
+      "notes": null
+    },
+    {
+      "id": 33,
+      "title": "Naanga Naalu Peru",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Asal Kolaar",
+        "Arun Srinivasan",
+        "Silambarasan TR"
+      ],
+      "notes": null
+    },
+    {
+      "id": 34,
+      "title": "Raathu Raasan",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vivek",
+        "V.M. Mahalingam",
+        "Paal Dabba"
+      ],
+      "notes": null
+    },
+    {
+      "id": 35,
+      "title": "Karuppa Kooda Va",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Pa. Vijay",
+        "V.M. Mahalingam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 36,
+      "title": "Athu Thalore",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Adesh Krishna",
+        "Ananya Chakraborty"
+      ],
+      "notes": null
+    },
+    {
+      "id": 37,
+      "title": "Aathi Raasathi",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Pa. Vijay",
+        "Dhass Benjamin"
+      ],
+      "notes": null
+    },
+    {
+      "id": 38,
+      "title": "God Mode Begins",
+      "track_type": "version",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vishnu Edavan",
+        "Gana Muthu"
+      ],
+      "notes": null
+    },
+    {
+      "id": 39,
+      "title": "Verappa",
+      "track_type": "song",
+      "album": "Karuppu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Karuppu",
+      "language": "Tamil",
+      "album_release_date": "2026-05-25",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Arun Srinivasan",
+        "Arivu"
+      ],
+      "notes": null
+    },
+    {
+      "id": 40,
+      "title": "All will be Fine",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 41,
+      "title": "Innocent Dad (Athutalore Sad)",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 42,
+      "title": "Pei Theme",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 43,
+      "title": "She Passed Away",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 44,
+      "title": "The Promise",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 45,
+      "title": "Better Call Baby Kannan",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 46,
+      "title": "Baby Kannan Looses Cool",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 47,
+      "title": "Baile Baby",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 48,
+      "title": "Confession of the Victim",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 49,
+      "title": "Filthy Judge",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 50,
+      "title": "God Feels for the Innocent Souls",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 51,
+      "title": "Guilt Triggered",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 52,
+      "title": "Judge Refuses Gods Request",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 53,
+      "title": "Justice Delayed",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 54,
+      "title": "Liar Liar",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 55,
+      "title": "Pinacle of Patience",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 56,
+      "title": "Red Bandana",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 57,
+      "title": "Strange Dream",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 58,
+      "title": "The Dead Court",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 59,
+      "title": "The Magic Freeze",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 60,
+      "title": "The Snatch",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 61,
+      "title": "Theme of Dad",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 62,
+      "title": "Thieves",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 63,
+      "title": "Triggered Lawyers",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 64,
+      "title": "You have no Power",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 65,
+      "title": "Wacky Baby Kannan",
+      "track_type": "bgm",
+      "album": "Karuppu - Side A (Just God Things) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 66,
+      "title": "Verappa (Urumum Venga) - Female Version",
+      "track_type": "version",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 67,
+      "title": "Karuppane Vaarumayya",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 68,
+      "title": "Walk of the King (Verappa Orchestral)",
+      "track_type": "version",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 69,
+      "title": "Verappa Thandavam Interval",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 70,
+      "title": "God Mode - Hyper Pop",
+      "track_type": "version",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 71,
+      "title": "Karuppu - Title Theme",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 72,
+      "title": "Metro Fight",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 73,
+      "title": "The Rise of Karuppu",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 74,
+      "title": "Karuppu vs Vellai",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 75,
+      "title": "On the Way to Burn",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 76,
+      "title": "The One",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 77,
+      "title": "Thatak Junak Arrival Dream",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 78,
+      "title": "Smahoo Karuppu Instincts",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 79,
+      "title": "Karuppu Blasts Baby Kannan",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 80,
+      "title": "Raathu Raasan (Orchestral Version)",
+      "track_type": "version",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 81,
+      "title": "Karuppu Game Begins",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 82,
+      "title": "Idhu Enga Territory",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 83,
+      "title": "Molaga",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 84,
+      "title": "The Radar Switch",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 85,
+      "title": "Verappa (Punjabi Version)",
+      "track_type": "version",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 86,
+      "title": "Vetta Karuppu Game Begins",
+      "track_type": "bgm",
+      "album": "Karuppu - Side B (God Mode Begins) (Original Score)",
+      "film_or_project": "Karuppu",
+      "language": "Instrumental",
+      "album_release_date": "2026-08-06",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": null
+    },
+    {
+      "id": 87,
+      "title": "God Mode",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Kaala Bhairava",
+        "Kasarla Shyam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 88,
+      "title": "Verappa - Extended",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Arun Kaundinya",
+        "Bharath Raj Avula",
+        "Yogi Sekar",
+        "Kasarla Shyam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 89,
+      "title": "Memu Nalugurunnam",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Nazeeruddin",
+        "Kasarla Shyam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 90,
+      "title": "Saami Veta",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vinayak",
+        "Bharath Raj Avula",
+        "Ritesh G Rao",
+        "Ramajogayya Sastry"
+      ],
+      "notes": null
+    },
+    {
+      "id": 91,
+      "title": "Veerabhadrudu",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Ritesh G Rao",
+        "Vinayak",
+        "Ramajogayya Sastry"
+      ],
+      "notes": null
+    },
+    {
+      "id": 92,
+      "title": "Atutalore",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Lakshmi Meghana",
+        "Ramajogayya Sastry"
+      ],
+      "notes": null
+    },
+    {
+      "id": 93,
+      "title": "Chinni Chemanthi",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vinayak",
+        "Ramajogayya Sastry"
+      ],
+      "notes": null
+    },
+    {
+      "id": 94,
+      "title": "Naa Kotalona",
+      "track_type": "song",
+      "album": "VeeraBhadrudu (Original Motion Picture Soundtrack)",
+      "film_or_project": "Veerabhadrudu (Telugu Karuppu)",
+      "language": "Telugu",
+      "album_release_date": "2026-06-10",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Sindhuja Srinivasan",
+        "Kasarla Shyam"
+      ],
+      "notes": null
+    },
+    {
+      "id": 95,
+      "title": "Magale",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Harini",
+        "Karthik Netha"
+      ],
+      "notes": null
+    },
+    {
+      "id": 96,
+      "title": "Ooroda Oththa Don",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Vangal Pulla Vicky",
+        "Thamizh Aadhavan",
+        "KK Nagar Gana Jeeva"
+      ],
+      "notes": null
+    },
+    {
+      "id": 97,
+      "title": "Mozhiye",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Sid Sriram",
+        "Karthik Netha"
+      ],
+      "notes": null
+    },
+    {
+      "id": 98,
+      "title": "Jiguchikkan",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Thamizh Aadhavan"
+      ],
+      "notes": null
+    },
+    {
+      "id": 99,
+      "title": "Vaazhanum Baththa",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Karthik Netha"
+      ],
+      "notes": null
+    },
+    {
+      "id": 100,
+      "title": "Cheen Dapak Dum Dum",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Thamizh Aadhavan",
+        "Anumita Basu",
+        "Tiwari"
+      ],
+      "notes": null
+    },
+    {
+      "id": 101,
+      "title": "Baththa Avatharam",
+      "track_type": "song",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Thamizh Aadhavan"
+      ],
+      "notes": null
+    },
+    {
+      "id": 102,
+      "title": "The Feel of Baththa",
+      "track_type": "theme",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Harini",
+        "Karthik Netha"
+      ],
+      "notes": null
+    },
+    {
+      "id": 103,
+      "title": "Baththa Lacrimosa",
+      "track_type": "theme",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "The Indian Choral Ensemble"
+      ],
+      "notes": null
+    },
+    {
+      "id": 104,
+      "title": "Chellame Magale (Mohan Kannan Version)",
+      "track_type": "version",
+      "album": "Baththa (Original Motion Picture Soundtrack)",
+      "film_or_project": "Baththa",
+      "language": "Tamil",
+      "album_release_date": "2026-10-02",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Mohan Kannan",
+        "Harini",
+        "Karthik Netha"
+      ],
+      "notes": null
+    },
+    {
+      "id": 105,
+      "title": "FA FA FA",
+      "track_type": "song",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Thamizh Aadhavan",
+        "Sapna Pathak"
+      ],
+      "notes": null
+    },
+    {
+      "id": 106,
+      "title": "Veezha Veera",
+      "track_type": "song",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Tippu"
+      ],
+      "notes": null
+    },
+    {
+      "id": 107,
+      "title": "Senjudare",
+      "track_type": "song",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [
+        "Harini"
+      ],
+      "notes": null
+    },
+    {
+      "id": 108,
+      "title": "Alaakaa Loova",
+      "track_type": "song",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": "Per Wikipedia; not confirmed on JioSaavn"
+    },
+    {
+      "id": 109,
+      "title": "O.M Special Duty",
+      "track_type": "theme",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": "Seen in JioSaavn new releases; details not fetched"
+    },
+    {
+      "id": 110,
+      "title": "Siya Entry",
+      "track_type": "theme",
+      "album": "O.M: Operation Mole / OM Chapter 1: Udhiram - The Blood Wood",
+      "film_or_project": "OM",
+      "language": "Tamil",
+      "album_release_date": "2026-11-08",
+      "composer": "Sai Abhyankkar",
+      "credited_artists": [],
+      "notes": "Seen in JioSaavn new releases; details not fetched"
+    }
+  ]
+}
